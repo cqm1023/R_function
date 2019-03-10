@@ -1,1 +1,1 @@
-[nchar](md_docution\nchar)
+[nchar](md_docution\nchar.md)
